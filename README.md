@@ -1,13 +1,52 @@
-# Dennis Kiptoo Kiptugen ([`@dkiptugen`](https://twitter.com/dkiptugen)) 👋
-
 **C.E.O Caydeesoft Solutions Limited**  ([`@caydeesoft`](https://www.caydeesoft.com/)).
 
-[![GitHub Followers](https://img.shields.io/github/followers/dkiptugen?label=Followers&style=for-the-badge)](https://github.com/dkiptugen)
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkiptugen1212%2Fhit-counter)
+# Dennis Kiptoo Kiptugen ([`@dkiptugen`](https://twitter.com/dkiptugen)) ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkiptugen1212%2Fhit-counter)
+
+[![GitHub Followers](https://img.shields.io/github/followers/dkiptugen?label=Followers&style=for-the-badge)](https://github.com/dkiptugen) <br />
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkiptugen)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.bitbucket.org/dkiptugen)
 
-**✅ Projects **:
+## Projects :
+
+***Websites***
+
+* https://www.standardmedia.co.ke
+* https://www.ureport.co.ke
+* https://www.debates.co.ke
+* https://www.ktnnews.com
+* https://www.evewoman.co.ke
+* https://www.standardmedia.co.ke/videos
+* https://www.news9.co.ke
+* https://www.now.co.ke
+* https://www.standardmedia.co.ke/entertainment
+* https://www.pd.co.ke
+* https://tutorsoma.standardmedia.co.ke
+* https://www.k24tv.co.ke
+* https://trans.standardmedia.co.ke
+* https://bundles.tamaituk.com
+* https://alert.boxraft.com
+* https://subscriptions.nation.africa
+* https://elections.thestar.ke
+* https://epaper.standardmedia.co.ke
+* https://sms.tamaituk.com
+* https://dashboard.radioafricaplatforms.com
+* https:://podcast.radioafrica.digital
+
+***Payment Platform Integrations***
+
+* Standard Group PLC
+* Network sacco
+* Parents Plan sacco
+* Taifa Mobile
+* Nation Media Group
+* Tamaituk Limited
+
+***Sms Integrations***
+
+* Taifa Mobile
+* Standard Group PLC
+* Tamaituk Limited
 
 ## Tech Stack:
 
@@ -49,10 +88,10 @@
 # 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkiptugen&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=dkiptugen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dkiptugen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkiptugen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dkiptugen&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dkiptugen&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkiptugen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <br>
-![](https://github-profile-trophy.vercel.app/?username=dkiptugen&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=dkiptugen&theme=dark&hide_border=true&layout=compact)
 

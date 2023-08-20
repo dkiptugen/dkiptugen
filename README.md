@@ -1,11 +1,17 @@
+# Dennis Kiptoo Kiptugen ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkiptugen1212%2Fhit-counter)
+
 **C.E.O Caydeesoft Solutions Limited**  ([`@caydeesoft`](https://www.caydeesoft.com/)).
 
-# Dennis Kiptoo Kiptugen ([`@dkiptugen`](https://twitter.com/dkiptugen)) ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkiptugen1212%2Fhit-counter)
+Accomplished software developer with extensive background in IT. Proficient in areas such as computer networking,
+software development, customer support, web design, analytical reasoning, and innovative issue resolution. Capable of
+integrating customer service principles into IT practices to enhance user experiences for clients, employees, and
+administrative processes.
 
-[![GitHub Followers](https://img.shields.io/github/followers/dkiptugen?label=Followers&style=for-the-badge)](https://github.com/dkiptugen) <br />
+[![GitHub Followers](https://img.shields.io/github/followers/dkiptugen?label=Followers&style=for-the-badge)](https://github.com/dkiptugen)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkiptugen)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.bitbucket.org/dkiptugen)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/dkiptugen)
 
 ## Projects :
 

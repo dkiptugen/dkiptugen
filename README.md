@@ -37,7 +37,9 @@ administrative processes.
 * https://epaper.standardmedia.co.ke
 * https://sms.tamaituk.com
 * https://dashboard.radioafricaplatforms.com
-* https:://podcast.radioafrica.digital
+* https://podcast.radioafrica.digital
+* https://www.rotarykitengela.org
+  
 
 ***Payment Platform Integrations***
 

@@ -1,11 +1,6 @@
 # Dennis Kiptoo Kiptugen ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkiptugen1212%2Fhit-counter)
 
-**C.E.O Caydeesoft Solutions Limited**  ([`@caydeesoft`](https://www.caydeesoft.com/)).
-
-Accomplished software developer with extensive background in IT. Proficient in areas such as computer networking,
-software development, customer support, web design, analytical reasoning, and innovative issue resolution. Capable of
-integrating customer service principles into IT practices to enhance user experiences for clients, employees, and
-administrative processes.
+Code wizard at @caydeesoft – turning caffeine into software magic. I build cool stuff, fix things that aren’t broken (yet), and make tech work so smoothly you’ll think it’s magic. Let’s create something awesome together!
 
 [![GitHub Followers](https://img.shields.io/github/followers/dkiptugen?label=Followers&style=for-the-badge)](https://github.com/dkiptugen)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
@@ -39,6 +34,7 @@ administrative processes.
 * https://dashboard.radioafricaplatforms.com
 * https://podcast.radioafrica.digital
 * https://www.rotarykitengela.org
+* https://live.baze.co.ke
   
 
 ***Payment Platform Integrations***

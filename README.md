@@ -148,9 +148,12 @@ I have built and integrated payment systems for:
 
 # 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkiptugen&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dkiptugen&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
 
 ---
 

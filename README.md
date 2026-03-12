@@ -2,13 +2,13 @@
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkiptugen1212%2Fhit-counter)
 
-🚀 **Software Engineer | Systems Architect | Builder of Digital Platforms**
+**Software Engineer | Systems Architect | Builder of Digital Platforms**
 
 I design and build scalable software platforms, data systems, and integrations powering media, payments, and digital products.
 
 Currently working on large-scale digital platforms, automation tools, and cloud infrastructure that serve **millions of users across Africa.**
 
-💡 I enjoy solving hard problems, building reliable systems, and turning ideas into production software.
+I enjoy solving hard problems, building reliable systems, and turning ideas into production software.
 
 ---
 
@@ -148,7 +148,9 @@ I have built and integrated payment systems for:
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=dkiptugen&theme=dark&hide_border=true&layout=compact)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dkiptugen&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 

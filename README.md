@@ -131,6 +131,7 @@ I have built and integrated payment systems for:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-EEEEEE?style=for-the-badge&logo=bash&logoColor=white)
 
 ---
 

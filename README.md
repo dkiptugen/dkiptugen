@@ -14,7 +14,7 @@ I enjoy solving hard problems, building reliable systems, and turning ideas into
 
 # 🌍 Connect With Me
 
-[![GitHub Followers](https://img.shields.io/github/followers/dkiptugen?label=Followers&style=for-the-badge)](https://github.com/dkiptugen)
+[![GitHub Followers](https://img.shields.io/github/followers/dkiptugen?&style=for-the-badge)](https://github.com/dkiptugen)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4676420/dennis-kiptugen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkiptugen)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.bitbucket.org/dkiptugen)
